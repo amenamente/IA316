@@ -1,2 +1,2 @@
-# IA316-proj
+# IA316 project
 Steam-insipired bandits for e-commerce
